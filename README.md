@@ -6,3 +6,5 @@ Step 2: sudo apt install nodejs
 Step 3: to verify node installed enter command node -v or node –version
 
 **NODE JS** It is JS run time like an environment in which a program written in JS we execute, outside of any browser
+
+**fs** file system, we would access for reading, writing data
